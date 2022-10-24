@@ -2,12 +2,12 @@
 $titulo = "Página Inicial";
 include "./cabecalho.php";?>
 
-<div class="card mt-4 mb-4">
+<div class="card mt-4 mb-4 text-bg-dark">
     <div class="card-header bg-primary text-white">Usuários</div>
     <div class="card-body">
         <div class="row">
             <div class="col-2">
-                <button class="btn btn-success">Novo Usuário</button>
+                <a href="./usuariosCreate.php" class="btn btn-success">Novo Usuário</a>
             </div>
             <div class="col-2">
                 <select name="opcao" class="form-control">
@@ -27,7 +27,7 @@ include "./cabecalho.php";?>
 </div>
 
 
-<table class="table table-hover table-striped">
+<table class="table table-dark table-hover table-striped">
   <thead>
     <tr>
       <th>ID</th>
