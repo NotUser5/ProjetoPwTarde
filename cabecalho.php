@@ -20,7 +20,7 @@
     <div class="container-fluid">
       <a class="navbar-brand" href="#">
 
-        <img src="./imagens/Ragute.png" alt="Bootstrap" width="220" height="50">
+        <img src="./imagens/logo2.png" alt="Bootstrap" width="50" height="50">
       </a>
 
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -32,16 +32,16 @@
             <a id="test" class="nav-link active" aria-current="page" href="./index.php">Home</a>
           </li>
           <li class="nav-item">
-            <a id="test2" class="nav-link active" aria-current="page" href="./usuarios.php">Lanches</a>
+            <a id="test2" class="nav-link active" aria-current="page" href="./usuarios.php">Usuarios</a>
           </li>
           <li class="nav-item">
-            <a id="test3" class="nav-link active" aria-current="page" href="#">Porções</a>
+            <a id="test3" class="nav-link active" aria-current="page" href="#"></a>
           </li>
           <li class="nav-item">
-            <a id="test4" class="nav-link active" aria-current="page" href="#">Bebidas</a>
+            <a id="test4" class="nav-link active" aria-current="page" href="#"></a>
           </li>
           <li class="nav-item">
-            <a id="test5" class="nav-link active" aria-current="page" href="#">Sobre</a>
+            <a id="test5" class="nav-link active" aria-current="page" href="#"></a>
           </li>
 
 
